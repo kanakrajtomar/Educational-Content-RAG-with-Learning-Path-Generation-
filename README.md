@@ -41,4 +41,4 @@ To query the Chroma DB, use:
 python query_data.py "Your question here"
 ```
 
-**Note:** You must have an OpenAI account and set your OpenAI API key as an environment variable for queries to work.
+**Note:** For testing you can use your openai api key !.
