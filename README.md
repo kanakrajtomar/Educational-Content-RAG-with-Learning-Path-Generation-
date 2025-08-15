@@ -1,4 +1,4 @@
-#Educational Content RAG
+##Educational Content RAG
 
 ## Install Dependencies
 
