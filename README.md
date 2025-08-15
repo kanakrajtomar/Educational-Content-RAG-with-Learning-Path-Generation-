@@ -1,4 +1,4 @@
-# LangChain RAG Tutorial (Windows Setup)
+#Educational Content RAG
 
 ## Install Dependencies
 
